@@ -49,12 +49,14 @@ Tutorials and examples for simulating different neurons from BRIAN2:
 https://brian2.readthedocs.io/en/stable/resources/tutorials/index.html 
 https://brian2.readthedocs.io/en/stable/examples/index.html 
 
-	Exercise 1 is on LIF:
-	https://neuronaldynamics-exercises.readthedocs.io/en/latest/exercises/leaky-integrate-and-fire.html 
+Exercise 1 is on LIF:
+https://neuronaldynamics-exercises.readthedocs.io/en/latest/exercises/leaky-integrate-and-fire.html 
 
 Neuronal Dynamics: Textbook/Tutorial on Computational Neuroscience using BRIAN2:
 Best tutorial on any simulator I could find.
 https://neuronaldynamics-exercises.readthedocs.io/en/latest/
 GitHub: https://github.com/EPFL-LCN/neuronaldynamics-exercises 
 
+Rose Hedderman
+University of Texas at Austin 2022
 
