@@ -18,22 +18,22 @@ If you are interested or just learning about Neuromorphic Computing especially w
 I started this as a Neuroscience undergrad at UT Austin and want to consolidate what I have learned.
 
 As an introduction to Neuromorphic Computing as a whole, these videos were a great introduction:
-    Garrick Orchard: Spiking Neural Networks for Event-based Vision:
-    https://www.youtube.com/watch?v=wCs2lv3g4A4 
+Garrick Orchard: Spiking Neural Networks for Event-based Vision:
+https://www.youtube.com/watch?v=wCs2lv3g4A4 
 
-    RPG Workshops’ YouTube Page:
-    Helpful for various applications and current research on Event-based AI:
-    https://www.youtube.com/channel/UCB7GuRX3vlIxOolslZ76M_A/featured
+RPG Workshops’ YouTube Page:
+Helpful for various applications and current research on Event-based AI:
+https://www.youtube.com/channel/UCB7GuRX3vlIxOolslZ76M_A/featured
 
-    Video from RPG on Neuromorphic Applications:
-    https://www.youtube.com/watch?v=tiK9idp4aaY&list=PLeXWz-g2If95mjNpA-yWIoDaoB8WtmE7&index=3
+Video from RPG on Neuromorphic Applications:
+https://www.youtube.com/watch?v=tiK9idp4aaY&list=PLeXWz-g2If95mjNpA-yWIoDaoB8WtmE7&index=3
 
-    Telluride Neuromorphic Cognition Engineering Workshop:
-    Found them early on and looked like a great place with some interesting projects.
-    https://sites.google.com/view/telluride-2022/home 
+Telluride Neuromorphic Cognition Engineering Workshop:
+Found them early on and looked like a great place with some interesting projects.
+https://sites.google.com/view/telluride-2022/home 
  
- If you have a stronger neuroscience background, these resources on computational neuroscience were especially helpful:
- BRIAN2 is my favorite brain simulator. To my research, it has the most well-organized information that I could find. 
+If you have a stronger neuroscience background, these resources on computational neuroscience were especially helpful:
+BRIAN2 is my favorite brain simulator. To my research, it has the most well-organized information that I could find. 
  
 INCF is a place where brain research is consolidated:
 https://training.incf.org/
