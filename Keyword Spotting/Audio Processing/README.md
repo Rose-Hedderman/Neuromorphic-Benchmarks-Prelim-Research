@@ -11,6 +11,11 @@ https://www.mathworks.com/help/audio/ref/mfcc.html
 Best tutorial on audio processing in Python:
 https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d
 
+To replicate:
+1. Obtain wav file
+2. Process in MatLAB (audMat.m) or Python (audiopy.py) to obtain MFCC values
+3. Manipulate to fit your model/simulator
+
 Other Neuromorphic Audio Processing project on SpiNNaker:
 https://link.springer.com/chapter/10.1007/978-3-319-44778-0_6
 
