@@ -1,5 +1,6 @@
 *************************************
-ABR Keyword Spotting Power Benchmarks
+REPLICATED ABR Keyword Spotting Power Benchmarks
+https://github.com/abr/power_benchmarks/ 
 *************************************
 
 This repository contains power benchmarking code for running a simple two-layer, 256 neuron per layer neural network keyword spotter on both neuromorphic and conventional hardware devices. On conventional devices a Tensorflow version of the keyword spotter is used, while on neuromorphic devices (Loihi), an architecturally identical Nengo version is used. This repo contains instructions for running power benchmarking trials, plotting the associated results, and reproducing our `paper <https://arxiv.org/abs/1812.01739>`_ summarizing these results. The `training` subdirectory includes scripts for training the model from scratch using raw audio files, and contains further instructions for doing so. Running :code:`python download.py` from within this directory will download the data for training the model, and along with reformatted training and testing datasets that already include preprocessing and alignment. This reformatted data is used in the benchmarks included here.
