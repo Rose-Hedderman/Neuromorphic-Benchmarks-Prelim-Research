@@ -5,6 +5,9 @@ The wav file is of someone saying "hello." The file was processed and the MFCC t
 Summary of the audio processing in Keyword Spotting:
 https://docs.google.com/document/d/1xmNEU_JAiRnXnbIXHMhKhttP4k6rg0BvoMh6Pn2yVtY/edit?usp=sharing 
 
+MFCC processing in MatLAB:
+https://www.mathworks.com/help/audio/ref/mfcc.html 
+
 Best tutorial on audio processing in Python:
 https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d
 
